@@ -1,17 +1,17 @@
 # week2-project# 
-Author
+**Author**
 james gichuru 
-
-Description
+**
+Description**
 This project is a web application that takes a user's date of birth  and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
 
 
 
 
-Live Page
+**Live Page**
 https://github.com/08-gme/week2-project
-
-Installation / Setup instruction
+**
+Installation / Setup instruction**
 Open Terminal {Ctrl+Alt+T}
 
 git clone https://github.com/08-gme/week2-project.git
@@ -20,12 +20,12 @@ cd week2-project
 
 code . or atom . based on the text editor you have.
 
-Technologies Used
+**Technologies Used**
 HTML5
 CSS
 JavaScript
 Bootstrap
-BDD
+**BDD**
 Enter century of birth eg 20 for 2019, Input Example 20 Output example 20
 
 Enter year of Birth eg 19 for 2019 Input Example 19 Output Example 19
@@ -55,9 +55,9 @@ Known Bugs
 Some output are not as accurate as expected..
 Contact Information
 If you have any question or contributions, please email me at [gichurujames3@gmail.com]
-
+**
 License
-MIT License:
+MIT License:**
 Copyright (c) 2021 james gichuru 
 Releases
 No releases published
